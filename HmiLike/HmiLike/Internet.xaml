@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="HmiLike.Internet"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+               d:DesignHeight="797" d:DesignWidth="1357">
+    <Grid>
+
+        <WebBrowser Source="https://www.google.com.eg/" Margin="0,160,0,0"></WebBrowser>
+        <Button Margin="10,0,1115,637"  Name="ess" Click="ess_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse 
+                         StrokeThickness="2">
+                            <Ellipse.Fill>
+                                <RadialGradientBrush>
+                                    <GradientStop Offset="5"
+                                           />
+
+                                    <GradientStop Offset="0"
+                                           />
+                                    <GradientStop Offset="0"
+                                          Color="DeepPink" />
+
+                                    <RadialGradientBrush.Transform>
+                                        <TransformGroup>
+                                            <ScaleTransform ScaleY="0.65" />
+                                        </TransformGroup>
+                                    </RadialGradientBrush.Transform>
+                                </RadialGradientBrush>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Label Content="Home" Height="64" HorizontalAlignment="Left" Margin="61,23,0,0" Name="label5" VerticalAlignment="Top" Width="136" FontSize="44" IsTabStop="True" FontStyle="Normal" FontWeight="Normal" Foreground="White" />
+    </Grid>
+</UserControl>

@@ -1,0 +1,4 @@
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\newdll\bin\Debug\newdll.dll
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\newdll\bin\Debug\newdll.pdb
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\newdll\obj\Debug\newdll.dll
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\newdll\obj\Debug\newdll.pdb

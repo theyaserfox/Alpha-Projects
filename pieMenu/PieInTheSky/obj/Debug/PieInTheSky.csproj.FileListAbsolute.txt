@@ -1,0 +1,5 @@
+C:\Users\Islam Mostafa\Downloads\Compressed\PieMenu_src\PieMenu\PieInTheSky\bin\Debug\PieInTheSky.dll
+C:\Users\Islam Mostafa\Downloads\Compressed\PieMenu_src\PieMenu\PieInTheSky\bin\Debug\PieInTheSky.pdb
+C:\Users\Islam Mostafa\Downloads\Compressed\PieMenu_src\PieMenu\PieInTheSky\obj\Debug\PieInTheSky.dll
+C:\Users\Islam Mostafa\Downloads\Compressed\PieMenu_src\PieMenu\PieInTheSky\obj\Debug\PieInTheSky.pdb
+C:\Users\Islam Mostafa\Downloads\Compressed\PieMenu_src\PieMenu\PieInTheSky\obj\Debug\PieInTheSky.csprojResolveAssemblyReference.cache

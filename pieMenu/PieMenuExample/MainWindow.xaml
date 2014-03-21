@@ -1,0 +1,158 @@
+﻿<Window x:Class="PieMenuExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:p="clr-namespace:PieInTheSky;assembly=PieInTheSky"
+        Title="MainWindow" Height="800" Width="800">
+    <Canvas Background="Gray">
+
+        <p:PieMenu x:Name="Menu1" RotateText="False" Canvas.Left="84" Canvas.Top="162" Height="229" Width="247">
+            
+            <p:PieMenuItem Header="2   3">
+                <p:PieMenuItem Header="2" Click="PieMenuItem_Click"/>
+                <p:PieMenuItem Header="3" Command="NotACommand"/>
+              
+            </p:PieMenuItem>
+            <p:PieMenuItem Header="4   5">
+                <p:PieMenuItem Header="4" Click="PieMenuItem_Click"/>
+                <p:PieMenuItem Header="5" Command="NotACommand"/>
+               
+            </p:PieMenuItem>
+            <p:PieMenuItem Header="6  7">
+                <p:PieMenuItem Header="6" />
+                <p:PieMenuItem Header="7" />
+            </p:PieMenuItem>
+            
+            <p:PieMenuItem Header=" 8  9">
+                <p:PieMenuItem Header="8" />
+                <p:PieMenuItem Header="9" />
+               
+            </p:PieMenuItem>
+            <p:PieMenuItem Header="0   1">
+                <p:PieMenuItem Header="0" />
+                <p:PieMenuItem Header="1" />
+               
+            </p:PieMenuItem>
+        </p:PieMenu>
+
+        <p:PieMenu x:Name="Menu2"
+                   RotateText="False"
+                   Width="204" Height="164" Canvas.Left="588" Canvas.Top="162">
+            <p:PieMenuItem Header="D E F" >
+                <p:PieMenuItem Header="D" />
+                <p:PieMenuItem Header="E" />
+                <p:PieMenuItem Header="F" />
+            </p:PieMenuItem>
+
+
+            <p:PieMenuItem Header="G H I" >
+                <p:PieMenuItem Header="G" />
+                <p:PieMenuItem Header="H" />
+                <p:PieMenuItem Header="I" />
+                
+            </p:PieMenuItem>
+            <p:PieMenuItem Header="J K L" >
+                <p:PieMenuItem Header="J" />
+                <p:PieMenuItem Header="K" />
+                <p:PieMenuItem Header="L" />
+            </p:PieMenuItem>
+            <p:PieMenuItem Header="M N O" >
+                <p:PieMenuItem Header="M" />
+                <p:PieMenuItem Header="N" />
+                <p:PieMenuItem Header="O" />
+            </p:PieMenuItem>
+
+            <p:PieMenuItem Header="A B C">
+                <p:PieMenuItem Header="A" />
+                <p:PieMenuItem Header="B" />
+                <p:PieMenuItem Header="C" />
+             
+            </p:PieMenuItem>
+        </p:PieMenu>
+        <p:PieMenu x:Name="Menu3"
+                   RotateText="False"
+                   Width="221" Height="162" Canvas.Left="314" Canvas.Top="164">
+           
+
+            <p:PieMenuItem Header="Lang" >
+                <p:PieMenuItem Header="Arabic" />
+                <p:PieMenuItem Header="English" />
+               
+            </p:PieMenuItem>
+            <p:PieMenuItem Header="Symb" >
+                <p:PieMenuItem Header="J" />
+                <p:PieMenuItem Header="K" />
+                <p:PieMenuItem Header="L" />
+            </p:PieMenuItem>
+            <p:PieMenuItem Header="Num" >
+                <p:PieMenuItem Header="M" />
+                <p:PieMenuItem Header="N" />
+                <p:PieMenuItem Header="O" />
+            </p:PieMenuItem>
+
+            <p:PieMenuItem Header="Letters">
+                <p:PieMenuItem Header="A" />
+                <p:PieMenuItem Header="B" />
+                <p:PieMenuItem Header="C" />
+
+            </p:PieMenuItem>
+        </p:PieMenu>
+        <p:PieMenu x:Name="Menu4"
+                   RotateText="False"
+                   Width="221" Height="288" Canvas.Left="314" Canvas.Top="344">
+
+
+            <p:PieMenuItem Header="Lang" >
+                <p:PieMenuItem Header="Arabic" />
+                <p:PieMenuItem Header="English" />
+
+            </p:PieMenuItem>
+            <p:PieMenuItem Header="Symb" >
+                <p:PieMenuItem Header="J" />
+                <p:PieMenuItem Header="K" />
+                <p:PieMenuItem Header="L" />
+            </p:PieMenuItem>
+            <p:PieMenuItem Header="Num" >
+                <p:PieMenuItem Header="M" />
+                <p:PieMenuItem Header="N" />
+                <p:PieMenuItem Header="O" />
+            </p:PieMenuItem>
+
+            <p:PieMenuItem Header="Letters">
+                <p:PieMenuItem Header="A" />
+                <p:PieMenuItem Header="B" />
+                <p:PieMenuItem Header="C" />
+
+            </p:PieMenuItem>
+        </p:PieMenu>
+        <p:PieMenu x:Name="Menu5"
+                   RotateText="False"
+                   Width="204" Height="164" Canvas.Left="314" Canvas.Top="10">
+            <p:PieMenuItem Header="; \ :" >
+                <p:PieMenuItem Header="." />
+                <p:PieMenuItem Header="#" />
+                <p:PieMenuItem Header="@" />
+            </p:PieMenuItem>
+
+
+           
+            <p:PieMenuItem Header="(  )  %" >
+                <p:PieMenuItem Header="J" />
+                <p:PieMenuItem Header="K" />
+                <p:PieMenuItem Header="L" />
+            </p:PieMenuItem>
+            <p:PieMenuItem Header="^  * $" >
+                <p:PieMenuItem Header="M" />
+                <p:PieMenuItem Header="N" />
+                <p:PieMenuItem Header="O" />
+            </p:PieMenuItem>
+
+            <p:PieMenuItem Header="@ # .">
+                <p:PieMenuItem Header="@" />
+                <p:PieMenuItem Header="#" />
+                <p:PieMenuItem Header="." />
+
+            </p:PieMenuItem>
+        </p:PieMenu>
+
+    </Canvas>
+</Window>

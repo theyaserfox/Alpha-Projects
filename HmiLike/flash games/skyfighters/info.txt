@@ -1,0 +1,17 @@
+Skyfighters
+
+Game Description:
+Take down the enemy planes to protect yourself. Upgrade your defences to succeed in this fast past aviation shoot out
+	
+Game Instructions:
+Mouse - Aim/Shoot
+1,2,3,4,5 - Air Support
+Z,X,C - Special Attacks
+
+Dimensions:
+
+Width: 650	
+height: 450
+
+More great games from
+http://www.flashgames247.com/pages/freegames.html

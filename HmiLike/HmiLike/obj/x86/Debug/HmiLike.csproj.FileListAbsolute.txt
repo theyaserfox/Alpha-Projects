@@ -1,0 +1,134 @@
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\MainWindow.baml
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\MainWindow.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\App.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.cache
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\HmiLike.g.resources
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\HmiLike.Properties.Resources.resources
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\Page2.baml
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\Page3.baml
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\SwitcherMenu.baml
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\Page2.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\Page3.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\SwitcherMenu.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.lref
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\bin\Debug\HmiLike.exe
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\bin\Debug\HmiLike.pdb
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.baml
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\HmiLike.exe
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\HmiLike.pdb
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike.exe
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike.pdb
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\MainWindow.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\SwitcherMenu.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\Page2.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\Page3.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\SwitcherMenu.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\App.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.cache
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.lref
+C:\Users\mesta\Desktop\HmiLike\HmiLike\bin\Debug\HmiLike.exe
+C:\Users\mesta\Desktop\HmiLike\HmiLike\bin\Debug\HmiLike.pdb
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\Page2.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\Page3.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike.g.resources
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike.Properties.Resources.resources
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike.csproj.GenerateResource.Cache
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\PageWithParameter.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\PageWithParameter.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\WndEditPerson.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\WndEditPerson.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\PageEditPerson.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\PageEditPerson.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike.exe
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike.pdb
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\bin\Debug\HmiLike.exe
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\bin\Debug\HmiLike.pdb
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike.csprojResolveAssemblyReference.cache
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\MainWindow.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\App.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.cache
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.lref
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike.g.resources
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike.Properties.Resources.resources
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike.csproj.GenerateResource.Cache
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Videos.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Videos.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\Introduction.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\Introduction.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Games.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Games.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\bin\Debug\FormFlashLibrary.dll
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\bin\Debug\FormFlashLibrary.pdb
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Movies.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Movies.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Video2.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Video3.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Video4.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Viedo1.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Video2.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Video3.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Video4.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Viedo1.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Game1.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Game2.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Game3.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Game4.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Game1.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Game2.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Game3.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Game4.g.cs
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Internet.baml
+C:\Users\Islam Mostafa\Downloads\Compressed\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Internet.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\HmiLike.exe
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\HmiLike.pdb
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Game1.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Game2.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Game3.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Game4.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Games.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Internet.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\MainWindow.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Movies.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Pages\Introduction.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Video2.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Video3.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Video4.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Videos.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Viedo1.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Game1.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Game2.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Game3.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Game4.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Games.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Internet.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\MainWindow.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Movies.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Pages\Introduction.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Video2.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Video3.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Video4.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Videos.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Viedo1.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\App.g.cs
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.cache
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.lref
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\bin\Debug\HmiLike.exe
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\bin\Debug\HmiLike.pdb
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.baml
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\HmiLike.g.resources
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\HmiLike.Properties.Resources.resources
+D:\Users\gateway\Desktop\HmiLike3\HmiLike\HmiLike\obj\x86\Debug\HmiLike.csproj.GenerateResource.Cache

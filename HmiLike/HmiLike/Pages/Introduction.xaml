@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="HmiLike.Pages.Introduction"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="797" d:DesignWidth="1357">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="424,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="67" Width="401" FontSize="48" Foreground="#FF0C6497"><Run Text="HCI Lab."/><Run Foreground="#FF606466" Text="Structure"/><Run Text=" "/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="47,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="204" Width="433" FontSize="24"><Span Foreground="#FFA52126" Language="en-us"><Run Text="Pattern Recognition:"/></Span><LineBreak/><Run Text="Dr. Waleed Yousef"/><LineBreak/><Run/><LineBreak/><Run Text="• Statistical Learning Machines&#xA;• Pattern Recognition. &#xA;• Theoretical and real life applications. "/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="47,266,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="208" Width="437" FontSize="24"><Span Foreground="#FFA52126" Language="en-us"><Run Text="Human Computer Interaction:"/></Span><LineBreak/><Span Foreground="Black" Language="en-us"><Run Text="Dr. Ayman Atia"/></Span><LineBreak/><Run/><LineBreak/><Run Text="•"/><Span Foreground="Black" Language="en-us"><Run Text="Interacting in ubiquitous environments "/></Span><LineBreak/><Run Text="•Natural and tangible user interfaces&#xD;&#xA;•user-centered novel hardware/software "/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="47,471,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="213" Width="411" FontSize="24"><Span Foreground="#FFA52126" Language="en-us"><Run Text="Software Engineering:"/></Span><LineBreak/><Span Foreground="Black" Language="en-us"><Run Text="Prof. Mostafa Sami"/></Span><LineBreak/><Span Foreground="Black" Language="en-us"><Run/></Span><LineBreak/><Run Text="•Software Architecture&#xD;&#xA;•Aspect Oriented Development&#xD;&#xA;•Software Quality Assurance"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="946,471,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="223" Width="411" FontSize="24"><Span Foreground="#FFA52126" Language="en-us"><Run Text="Networks:"/></Span><LineBreak/><Span Foreground="Black" Language="en-us"><Run Text="Prof. Mostafa Sami"/></Span><LineBreak/><LineBreak/><Run Text="•Applications and Performance&#xD;&#xA;•Security and Routing Algorithms&#xD;&#xA;•Multimedia Data Communication. &#xD;&#xA;•Wireless sensor network&#xD;&#xA;;"/><LineBreak/><Span Foreground="Black" Language="en-us"><Run/></Span><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="936,266,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="200" Width="411" FontSize="24"><Span Foreground="#FFA52126" Language="en-us"><Run Text="Biometric Technology"/></Span><LineBreak/><Run Text="Dr. Omar Hamdy"/><LineBreak/><LineBreak/><Run Text="•Biometric Technologies.&#xD;&#xA;•Biometric Information Security&#xD;&#xA;•Static and continuous authentication"/><LineBreak/><Run Text="&#xA;"/><LineBreak/><Span Foreground="Black" Language="en-us"><Run/></Span><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="936,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="200" Width="411" FontSize="24"><Run Foreground="#FFA52126" Text="Image Reconstruction"/><LineBreak/><Run Text="Dr. Essam A.Rashed"/><LineBreak/><LineBreak/><Run Text="•Computer Tomography.&#xA;•Image Reconstruction&#xA;•Medical Image Processing"/><LineBreak/><Run Text="&#xA;"/><LineBreak/><Span Foreground="Black" Language="en-us"><Run/></Span><LineBreak/><Run/></TextBlock>
+        <Button Width="303" Margin="522,217,0,301" HorizontalAlignment="Left" Click="Button_Click_1">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse 
+                         StrokeThickness="2">
+                            <Ellipse.Fill>
+                                <RadialGradientBrush>
+
+                                    <GradientStop Offset="0"
+                                           />
+                                    <GradientStop Offset="0"
+                                          Color="SkyBlue" />
+
+
+                                    <RadialGradientBrush.Transform>
+                                        <TransformGroup>
+                                            <ScaleTransform ScaleY="0.65" />
+                                        </TransformGroup>
+                                    </RadialGradientBrush.Transform>
+                                </RadialGradientBrush>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Label Content="Home" Height="64" HorizontalAlignment="Left" Margin="602,300,0,0" Name="label5" VerticalAlignment="Top" Width="136" FontSize="44" IsTabStop="True" FontStyle="Normal" FontWeight="Normal" Foreground="White" />
+    </Grid>
+</UserControl>

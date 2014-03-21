@@ -1,0 +1,13 @@
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\project\bin\Debug\project.exe
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\project\bin\Debug\project.pdb
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\project\obj\x86\Debug\MainWindow.baml
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\project\obj\x86\Debug\MainWindow.g.cs
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\project\obj\x86\Debug\App.g.cs
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\project\obj\x86\Debug\project_MarkupCompile.cache
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\project\obj\x86\Debug\project.g.resources
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\project\obj\x86\Debug\project.exe
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\project\obj\x86\Debug\project.pdb
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\project\bin\Debug\UT.pdb
+C:\Year 2 Semster 2\HCI Lab\temp\newTouchapp\project\obj\x86\Debug\project.csprojResolveAssemblyReference.cache

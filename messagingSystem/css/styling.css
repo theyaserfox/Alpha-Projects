@@ -1,0 +1,141 @@
+body
+{
+position:relative;
+width:98%;
+height:97%;
+border:1px solid black;
+background-color:white;
+display:inline-block;
+}
+
+#home
+{
+position:absolute;
+width:70%;
+height:96%;
+border:1px solid black;
+background-color:white;
+display:inline-block;
+left:28%;
+bottom:2%;
+}
+
+#left
+{
+position:absolute;
+width:23%;
+height:97%;
+background-color:white;
+border:1px solid black;
+left:2%;
+bottom:2%;
+}
+
+#search
+{
+position:absolute;
+width:100%;
+height:45%;
+background-color:white;
+border:1px solid black;
+}
+
+#suggestion
+{
+position:absolute;
+width:100%;
+height:90%;
+bottom:1;
+overflow:auto;
+border:1px solid black;
+}
+
+#list
+{
+position:absolute;
+width:100%;
+height:45%;
+background-color:white;
+border:1px solid black;
+bottom:0;
+overflow-y:scroll;
+}
+
+#chat_bar
+{
+position:absolute;
+bottom:0;
+width:99%;
+height:40%;
+border:1px solid black;
+overflow-y:hidden;
+overflow-x:scroll;
+display:inline-block;
+float:left;
+}
+
+.pChat
+{
+position:absolute;
+width:99.5%;
+height:8%;
+display:inline-block;
+border:1px solid yellow;
+bottom:86%;
+}
+
+.history
+{
+position:absolute;
+bottom:8%;
+width:99.5%;
+height:84%;
+overflow-y:scroll;
+overflow-x:hidden;
+border:1px solid red;
+float:left;
+}
+
+.input
+{
+position:absolute;
+width:99.5%;
+height:8%;
+display:inline-block;
+border:1px solid green;
+bottom:0;
+}
+
+.chat
+{
+position:relative;
+bottom:0;
+width:300px;
+height:100%;
+left:1px;
+float:left;
+}
+
+.message
+{
+position:relative;
+width:99%;
+word-break: break-all;
+border:1px solid blue;
+bottom:0;
+left:0.5%;
+word-break: break-all;
+height:auto;
+}
+
+.name
+{
+padding: 3px 3px;
+}
+
+.new_message_name
+{
+position:relative;
+padding: 5px 5px;
+background-color:red;
+}

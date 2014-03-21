@@ -1,0 +1,10 @@
+Description: 
+Think your the master at shooting down targets? Time to step up and prove it! Warning: These targets shoot back!
+
+Instructions: 
+Use your mouse to aim and shoot.
+Press R to Reload.
+Press Space to change you weapon.
+
+Dimensions:
+640x480

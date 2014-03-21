@@ -1,0 +1,172 @@
+﻿<UserControl x:Class="HmiLike.Movies"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="797" d:DesignWidth="1357">
+    <Grid>
+        <Button Width="402" Margin="868,380,0,12" HorizontalAlignment="Left" Click="Button_Click_5">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse 
+                         StrokeThickness="2">
+                            <Ellipse.Fill>
+                                <RadialGradientBrush>
+
+                                    <GradientStop Offset="0"
+                                           />
+                                    <GradientStop Offset="0"
+                                          Color="SkyBlue" />
+
+
+                                    <RadialGradientBrush.Transform>
+                                        <TransformGroup>
+                                            <ScaleTransform ScaleY="0.65" />
+                                        </TransformGroup>
+                                    </RadialGradientBrush.Transform>
+                                </RadialGradientBrush>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+
+        <Button Margin="94,405,880,37" Click="Button_Click_4"  >
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse 
+                         StrokeThickness="5">
+                            <Ellipse.Fill>
+                                <RadialGradientBrush>
+
+                                    <GradientStop Offset="4"
+                                           />
+
+                                    <GradientStop Offset="0"
+                                            />
+
+                                    <GradientStop Offset="0"
+                                          Color="Purple" />
+
+                                    <RadialGradientBrush.Transform>
+                                        <TransformGroup>
+                                            <ScaleTransform ScaleY="0.65" />
+                                        </TransformGroup>
+                                    </RadialGradientBrush.Transform>
+                                </RadialGradientBrush>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+
+
+
+        <Button Width="404" Margin="0,0,837,392" HorizontalAlignment="Right" Click="Button_Click_1">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse 
+                         StrokeThickness="2">
+                            <Ellipse.Fill>
+                                <RadialGradientBrush>
+                                    <GradientStop Offset="5"
+                                           />
+                                    <GradientStop Offset="0"
+                                           />
+                                    <GradientStop Offset="0"
+                                          Color="Gold" />
+
+                                    <RadialGradientBrush.Transform>
+                                        <TransformGroup>
+                                            <ScaleTransform ScaleY="0.65" />
+                                        </TransformGroup>
+                                    </RadialGradientBrush.Transform>
+                                </RadialGradientBrush>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button Margin="379,138,388,97" Click="Button_Click_2">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse 
+                         StrokeThickness="2">
+                            <Ellipse.Fill>
+                                <RadialGradientBrush>
+                                    <GradientStop Offset="5"
+                                           />
+
+                                    <GradientStop Offset="0"
+                                           />
+                                    <GradientStop Offset="0"
+                                          Color="DeepPink" />
+
+                                    <RadialGradientBrush.Transform>
+                                        <TransformGroup>
+                                            <ScaleTransform ScaleY="0.65" />
+                                        </TransformGroup>
+                                    </RadialGradientBrush.Transform>
+                                </RadialGradientBrush>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Margin="1134,20,19,572" Click="Button_Click_3">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse 
+                         StrokeThickness="2">
+                            <Ellipse.Fill>
+                                <RadialGradientBrush>
+                                    <GradientStop Offset="5"
+                                           />
+
+                                    <GradientStop Offset="0"
+                                           />
+                                    <GradientStop Offset="0"
+                                          Color="DeepPink" />
+
+                                    <RadialGradientBrush.Transform>
+                                        <TransformGroup>
+                                            <ScaleTransform ScaleY="0.65" />
+                                        </TransformGroup>
+                                    </RadialGradientBrush.Transform>
+                                </RadialGradientBrush>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Label Content="OmniTouch" HorizontalAlignment="Left" Margin="936,542,0,131" Name="label1" FontSize="48" Width="252" Foreground="White" />
+        <Label Content="Wii Games" Height="92" HorizontalAlignment="Left" Margin="152,514,0,0" Name="label2" VerticalAlignment="Top" Width="216" FontSize="48" Foreground="White" />
+        <Label Content="Kienect" Height="72" HorizontalAlignment="Left" Margin="228,122,0,0" Name="label3" VerticalAlignment="Top" Width="186" FontSize="48" Foreground="White" />
+        <Label Content="Operation Room" Height="106" HorizontalAlignment="Left" Margin="477,354,0,0" Name="label4" VerticalAlignment="Top" Width="391" FontSize="48" IsTabStop="True" FontStyle="Normal" FontWeight="Normal" Foreground="White" />
+        <Label Content="Home" Height="64" HorizontalAlignment="Left" Margin="1169,62,0,0" Name="label5" VerticalAlignment="Top" Width="136" FontSize="44" IsTabStop="True" FontStyle="Normal" FontWeight="Normal" Foreground="White" />
+    </Grid>
+</UserControl>
