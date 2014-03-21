@@ -1,0 +1,57 @@
+.editbox
+{
+display:none
+}
+td
+{
+padding:8px;
+text-align:center;
+}
+body
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+}
+.editbox
+{
+font-size:13px;
+width:94%;
+background-color:#ffffcc;
+
+border:solid 1px #000;
+}
+.edit_td:hover
+{
+background:url(edit.png) right no-repeat #80C8E5;
+cursor:pointer;
+}
+
+
+th
+{
+font-weight:bold;
+text-align:center;
+padding:4px;
+}
+
+.head
+{
+
+background-color:#333;
+color:#FFFFFF
+
+}
+
+//.shade
+//{
+//box-shadow:0px 0px 18px #000000;
+//-moz-box-shadow:0px 0px 18px #000000;
+//-webkit-box-shadow:0px 0px 18px #000000;
+//border-radius: 8px;-moz-border-radius: 8px; -webkit-border-radius: 8px;
+//}
+
+table tr td input {
+
+height: 1.2em;
+
+}
