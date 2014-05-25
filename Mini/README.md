@@ -27,5 +27,5 @@ check users opnion before publishing new scheduale.
 
 ***
 
-### About The Author (CEO & Founder):
-See [This](http://www.linkedin.com/profile/view?id=175540459)
+### About Authors :
+See [This](http://www.linkedin.com/profile/view?id=175540459), other authors contacts to be added.
