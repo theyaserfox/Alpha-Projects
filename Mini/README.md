@@ -19,15 +19,11 @@ users with different tools that meet the users needs while remaining easy to und
 and use.
 More specifically, this system is designed to allow an admin to generate the scheduale
 or configure it manually, and he is the only person can full control the web site, add
-courses, add professors, add rooms, add students and delet them all. other users can
+courses, add professors, add rooms, add students and delete them all. other users can
 view scheduale and interact with it simply.
 Also the system fully intergrated with a forum for techincal and non-technical support
 and professor announcements. And also integrated with vote system to allow admin to
-check users opnion before puplushing new scheduale.
-
-***
-
-### Goto [Wikis](https://github.com/theyaserfox/projects/mini/wiki)
+check users opnion before publishing new scheduale.
 
 ***
 
