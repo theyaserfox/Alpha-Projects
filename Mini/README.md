@@ -28,4 +28,8 @@ check users opnion before publishing new scheduale.
 ***
 
 ### About Authors :
-See [This](http://www.linkedin.com/profile/view?id=175540459), other authors contacts to be added.
+- [Yaser Abdelaziz](http://www.linkedin.com/profile/view?id=175540459)
+- Nesma Talaat Abbas
+- Fady Aziz
+- Maram El-Sayed
+- Kiro Magdy
