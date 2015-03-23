@@ -1,4 +1,4 @@
-![mini](https://scontent-b-cdg.xx.fbcdn.net/hphotos-frc3/t1.0-9/598995_10200486908750619_1834381106_n.jpg "mini Cover Photo")
+![mini](https://lh4.googleusercontent.com/lVcd9jLilMn1997zix_EABXZ3oM3up73m0zL6lUOudAcAX6G1bk9kPOmi-1scNg2lcEtiFI4PY2BsX8=w1342-h481 "mini Cover Photo")
 
 
 # Purpose
